@@ -1,6 +1,6 @@
 {
-  "name": "@qest-cz/npm-package-starter",
-  "displayName": "@qest-cz/npm-package-starter",
+  "name": "@qest/npm-package-starter",
+  "displayName": "@qest/npm-package-starter",
   "description": "Very basic boilerplate for npm packages",
   "author": "Qest",
   "version": "1.0.0",
