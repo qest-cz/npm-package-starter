@@ -1,0 +1,9 @@
+printWidth: 120,
+parser: 'typescript',
+singleQuote: false,
+arrowParens: 'always',
+trailingComma: 'all',
+tabWidth: 2,
+semi: true,
+useTabs: false,
+ 

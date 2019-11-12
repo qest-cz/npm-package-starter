@@ -1,0 +1,30 @@
+{
+  "name": "@qest-cz/npm-package-starter",
+  "displayName": "@qest-cz/npm-package-starter",
+  "description": "Very basic boilerplate for npm packages",
+  "author": "Qest",
+  "version": "1.0.0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qest-cz/npm-package-starter/issues"
+  },
+  "homepage": "https://github.com/qest-cz/npm-package-starter#readme",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qest-cz/npm-package-starter.git"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "tslint": "^5.20.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.7.2"
+  }
+}
